@@ -1,6 +1,7 @@
 # ChoreoMaker
 
 pose estimation - openpose : https://github.com/CMU-Perceptual-Computing-Lab/openpose
+시연영상(예상결과) 링크 : https://www.youtube.com/watch?v=NC_hW1L0UU0
 
 python
  - run.py : openpose의 코드 일부를 수정해 각 keypoint의 좌표를 csv 파일에 저장
